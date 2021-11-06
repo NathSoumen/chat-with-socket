@@ -1,0 +1,7 @@
+html,body, div{
+    background-color: rgba(235, 235, 235, 0.247);
+}
+
+.chartdashboard {
+    display: flex;
+}
